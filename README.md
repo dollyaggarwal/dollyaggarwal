@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<video align="center" width="500" height="300" loop autoplay muted style="margin: auto;">
-  <source src="microchip-server-system video.mp4" type="video/mp4">
-</video>
+<img src="ezgif-4-456c79582d.gif" alt="GIF image"/>
 </div>
 
 
