@@ -1,8 +1,9 @@
-### Hi there 👋
 
 <div align="center">
-<img src="ezgif-4-456c79582d.gif" alt="GIF image"/>
+<img src="gif infinity.gif" height="300px" width="500px" alt="GIF image"/>
 </div>
+
+### Hi there 👋
 
 
 # 💫 About Me:🙋🏻‍♀️
