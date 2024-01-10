@@ -2,7 +2,7 @@
 
 <div align="center">
 <video align="center" width="500" height="300" loop autoplay muted style="margin: auto;">
-  <source src="https://static.videezy.com/system/resources/previews/000/055/020/original/microchip-server-system.mp4" type="video/mp4">
+  <source src="microchip-server-system video.mp4" type="video/mp4">
 </video>
 </div>
 
