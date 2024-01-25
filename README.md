@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <img src="gif infinity.gif" height="300px" width="500px" alt="GIF image"/> -->
-<img src="https://github.com/dollyaggarwal/dollyaggarwal/assets/108432161/87ec0f18-5bae-4656-b8ed-9283c28c5903" alt="adam-pw"/>
+<img   src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dolly+Aggarwal!;" />
