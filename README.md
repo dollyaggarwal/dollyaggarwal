@@ -11,11 +11,11 @@
 
 <div align="center">
  
- 🔭 I'm currently exploring new career opportunities
+ 🔭 I'm currently exploring new technologies.
  
- 🌱 I’m currently learning React & Redux.
+ 🌱 I’m currently working in Oodles Technologies Pvt. Ltd. as a Frontend Developer.
 
-💬 Ask me about Java, Javascript, Node.js, Express, MongoDb... or anything here
+💬 Ask me about Problem solving,Javascript,React.js, Node.js, Express, MongoDb,Firebase... or anything here
 
 ⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,tailwind,git,postman"/><br>
-    <img src="https://skillicons.dev/icons?i=javascript,react,redux,nodejs,typescript,express,mongodb,firebase,java" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,redux,angular,nodejs,typescript,express,mongodb,firebase,java" /><br>
 </div>
 
 <br/>
