@@ -12,8 +12,6 @@
 <div align="center">
  
  🔭 I'm currently exploring new technologies.
- 
- 🌱 I’m currently working in Oodles Technologies Pvt. Ltd. as a Frontend Developer.
 
 💬 Ask me about Problem solving,Javascript,React.js, Node.js, Express, MongoDb,Firebase... or anything here
 
