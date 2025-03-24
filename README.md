@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I'm currently exploring new technologies.
+ 🔭 I'm currently working as Frontend Engineer at Oodles Technologies.
 
 💬 Ask me about Problem solving,Javascript,React.js, Node.js, Express, MongoDb,Firebase... or anything here
 
