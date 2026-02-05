@@ -13,7 +13,7 @@
  
  🔭 I'm currently working as Frontend Engineer at eApplique.com pvt ltd.
 
-💬 Ask me about Problem solving,Javascript,,Angular,C#,ASP .Net Core,React.js, Node.js, Express, MongoDb,Firebase... or anything here
+💬 Ask me about Problem solving,Javascript, Angular, C#, ASP .Net Core, React.js, Node.js, Express, MongoDb,Firebase... or anything here
 
 ⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,tailwind,git,postman,javascript"/><br>
-    <img src="https://skillicons.dev/icons?i=react,redux,angular,nodejs,typescript,express,mongodb,firebase,java,C#,.net" /><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,angular,nodejs,typescript,express,mongodb,firebase,java,csharp,dotnet" /><br>
 </div>
 
 <br/>
