@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I'm currently working as Frontend Engineer at eApplique.com pvt ltd.
+ 🔭 I'm currently working as Full Stack Developer at eApplique.com pvt ltd.
 
 💬 Ask me about Problem solving,Javascript, Angular, C#, ASP .Net Core, React.js, Node.js, Express, MongoDb,Firebase... or anything here
 
